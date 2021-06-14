@@ -1,0 +1,112 @@
+.top2{
+width:15%;
+float:left;	
+padding-top:1%;
+}
+.top1{
+width:57%;
+float:left;	
+padding-top:1%;
+}
+.top3{
+width:17%;
+float:left;	
+padding-top:1%;
+}
+.top4{
+width:7%;
+float:left;	
+padding-top:1.5%;
+}
+.top5{
+width:2%;
+float:left;	
+padding-top:1%;
+}
+.ggg{
+text-align:left;
+padding-top:2%;
+}
+header a{
+	color: black;
+	font-size:18px;
+	margin-left: 10px;
+}
+header a:hover{
+		color: #FF0000;
+}
+.bord{
+	border-top: 1px solid black;
+	margin-top: 5px;
+}
+header{
+}
+.fon{
+	width:100%;
+	height: 60%;
+	border-radius: 8px;
+}
+.fon2{
+  position: relative;
+  height:60%;
+}
+h1{
+	position:absolute;
+	color: White;
+	font-size:45px;
+	top: 25%;
+	left: 25%;
+}
+.but1{
+	position:absolute;
+	top: 55%;
+	left: 12%;
+}
+.bar{
+	background:white;
+	position:absolute;
+	top: 70%;
+	left: 12%;
+	width:80%;
+	border:1px solid black;
+}
+h6{
+	width:10%;
+	position:relative;
+	margin-right:10px;
+	border-right:1px solid black;
+	display: inline-block;
+}
+.but2{
+	position:absolute;
+	top: 85%;
+	left: 56%;
+}
+h1{
+	float:left;
+}
+.rofl{
+ height:20%
+}
+footer{
+	width:100%;
+	height:100%;
+	background: #000;
+	margin: 0 auto;
+	text-align: center;
+	padding-top:0px;
+}
+footer a{
+	color: gray;
+	font-size:14px;
+	float:left;
+}
+.rofl2{
+ height:10%
+}
+h5{
+	float:left;
+}
+.bb{
+border-bottom:1px solid white;
+}
